@@ -2,7 +2,7 @@
 # Demo 1 - Inicializar uma instância Cassandra utilizando Docker
 
 Esses scritps abaixo foram baseados no Quickstart do 
-[Apache Cassandra](https://github.com/riptano/ccm](https://cassandra.apache.org/_/quickstart.html).
+[Apache Cassandra](https://cassandra.apache.org/_/quickstart.html).
 
 ## Baixa a imagem Docker do Cassandra
 ```bash
